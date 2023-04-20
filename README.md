@@ -1,4 +1,4 @@
-# Epoching Toolbox
+# Epoching Toolbox - DEPRECATED
 
 This is a very simple toolbox to process raw data into epoched data by using a marker file. 
 
